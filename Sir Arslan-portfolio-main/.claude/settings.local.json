@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find /tmp -name \"*.png\" -newer \"/Users/raza/Downloads/Sir Arslan-portfolio-main/public/Profile.png\" 2>/dev/null | head -20; find /var/folders -name \"*.png\" -newer \"/Users/raza/Downloads/Sir Arslan-portfolio-main/public/Profile.png\" 2>/dev/null | head -20)",
+      "Read(//private/tmp/**)",
+      "Read(//private/var/folders/**)"
+    ]
+  }
+}
