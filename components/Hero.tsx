@@ -127,7 +127,7 @@ export default function Hero() {
               variants={itemVariants}
               className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold mb-3 leading-tight"
             >
-              <span className="text-gray-100">Hi, I'm</span>
+              <span className="text-gray-100">Hi, I&apos;m</span>
               <br />
               <span className="text-gradient">Malik Muhammad Raza</span>
               <br />

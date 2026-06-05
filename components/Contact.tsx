@@ -134,11 +134,11 @@ export default function Contact() {
           className="text-center mb-16"
         >
           <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold mb-4 px-4">
-            <span className="text-gradient">Let's Work Together</span>
+            <span className="text-gradient">Let&apos;s Work Together</span>
           </h2>
           <div className="w-24 h-1 bg-gradient-to-r from-primary-500 to-primary-600 mx-auto rounded-full mb-4" />
           <p className="text-gray-400 text-base sm:text-lg max-w-2xl mx-auto px-4">
-            Have a project in mind? Let's discuss how we can bring your ideas to
+            Have a project in mind? Let&apos;s discuss how we can bring your ideas to
             life
           </p>
         </motion.div>
@@ -215,7 +215,7 @@ export default function Contact() {
               </div>
               {submitStatus === 'success' && (
                 <div className="p-3 sm:p-4 bg-green-500/20 border border-green-500/50 rounded-lg text-green-400 text-center text-sm sm:text-base">
-                  ✓ Message sent successfully! I'll get back to you soon.
+                  ✓ Message sent successfully! I&apos;ll get back to you soon.
                 </div>
               )}
               {submitStatus === 'error' && (
@@ -262,7 +262,7 @@ export default function Contact() {
                 Get in touch
               </h3>
               <p className="text-gray-400 mb-6 sm:mb-8 leading-relaxed text-sm sm:text-base">
-                I'm always open to discussing new projects, creative ideas, or
+                I&apos;m always open to discussing new projects, creative ideas, or
                 opportunities to be part of your vision. Whether you have a
                 question or just want to say hi, feel free to reach out!
               </p>
