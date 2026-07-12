@@ -240,8 +240,8 @@ export default function Hero() {
                   Get In Touch
                 </motion.a>
                 <motion.a
-                  href="/MalikMuhammadRaza-Resume.pdf"
-                  download="MalikMuhammadRaza-Resume.pdf"
+                  href="/Malik-Raza.pdf"
+                  download="Malik-Raza.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="px-4 sm:px-5 py-2 glass-effect text-gray-300 rounded-lg font-semibold text-sm border border-dark-700/50 flex items-center justify-center gap-1.5"
@@ -303,7 +303,7 @@ export default function Hero() {
                 animate={{ rotate: 360 }}
                 transition={{ duration: 20, repeat: Infinity, ease: 'linear' }}
               >
-                4.0
+                5.0
               </motion.div>
             </motion.div>
           </motion.div>
