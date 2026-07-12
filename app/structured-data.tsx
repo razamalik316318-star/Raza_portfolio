@@ -8,7 +8,7 @@ export default function StructuredData() {
     alternateName: 'Malik Raza',
     jobTitle: 'iOS Developer',
     description:
-      'iOS Developer with 4+ years of experience building native applications with Swift, SwiftUI, and Objective-C, scalable mobile architecture, and App Store–ready releases.',
+      'iOS Developer with 5.0+ years of experience building native applications with Swift, SwiftUI, and Objective-C, scalable mobile architecture, and App Store–ready releases.',
     url: SITE_URL,
     image: `${SITE_URL}/Profile.png`,
     sameAs: [

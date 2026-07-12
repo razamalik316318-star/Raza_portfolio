@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     template: '%s | Malik Muhammad Raza',
   },
   description:
-    'Malik Muhammad Raza - iOS Developer with 4+ years of experience building native apps with Swift, SwiftUI, and Objective-C, polished UX, and App Store–ready releases for teams and clients.',
+    'Malik Muhammad Raza - iOS Developer with 5.0+ years of experience building native apps with Swift, SwiftUI, and Objective-C, polished UX, and App Store–ready releases for teams and clients.',
   keywords: [
     'Malik Muhammad Raza',
     'Malik Raza',
@@ -56,7 +56,7 @@ export const metadata: Metadata = {
     siteName: 'Malik Muhammad Raza - Portfolio',
     title: 'Malik Muhammad Raza - iOS Developer',
     description:
-      'iOS Developer with 4+ years of experience shipping native apps with Swift, SwiftUI, Objective-C, and UIKit—from architecture to App Store release.',
+      'iOS Developer with 5.0+ years of experience shipping native apps with Swift, SwiftUI, Objective-C, and UIKit—from architecture to App Store release.',
     images: [
       {
         url: `${siteUrl}/Profile.png`,
@@ -70,7 +70,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Malik Muhammad Raza - iOS Developer',
     description:
-      'iOS Developer with 4+ years of experience. Swift, SwiftUI, Objective-C, UIKit, and App Store delivery.',
+      'iOS Developer with 5.0+ years of experience. Swift, SwiftUI, Objective-C, UIKit, and App Store delivery.',
     images: [`${siteUrl}/Profile.png`],
   },
   alternates: {

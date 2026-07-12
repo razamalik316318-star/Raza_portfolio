@@ -93,7 +93,7 @@ export default function Experience() {
           </h2>
           <div className="w-24 h-1 bg-gradient-to-r from-primary-500 to-primary-600 mx-auto rounded-full" />
           <p className="text-gray-400 mt-4 max-w-2xl mx-auto text-sm md:text-base">
-            4+ years of iOS development across health-tech and product studios — shipping apps that users love.
+            5.0+ years of iOS development across health-tech and product studios — shipping apps that users love.
           </p>
         </motion.div>
 
@@ -229,7 +229,7 @@ export default function Experience() {
               <ul className="space-y-2 text-gray-300">
                 <li className="flex items-center gap-2">
                   <CheckCircle2 className="w-4 h-4 text-primary-400" />
-                  <span>4+ years iOS development experience</span>
+                  <span>5.0+ years iOS development experience</span>
                 </li>
                 <li className="flex items-center gap-2">
                   <CheckCircle2 className="w-4 h-4 text-primary-400" />

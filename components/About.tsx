@@ -94,7 +94,7 @@ export default function About() {
                 , an experienced{' '}
                 <span className="text-primary-400 font-semibold">iOS Developer</span>{' '}
                 with over{' '}
-                <span className="text-primary-400">4 years</span> in mobile app
+                <span className="text-primary-400">5.0 years</span> in mobile app
                 development. I specialize in{' '}
                 <span className="text-primary-400">SwiftUI</span>,{' '}
                 <span className="text-primary-400">UIKit</span>, and{' '}

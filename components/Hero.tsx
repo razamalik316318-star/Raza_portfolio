@@ -149,7 +149,7 @@ export default function Hero() {
               variants={itemVariants}
               className="text-base sm:text-lg text-gray-400 mb-6 max-w-2xl mx-auto lg:mx-0 leading-relaxed"
             >
-              Passionate iOS developer with 4.0 years of experience building
+              Passionate iOS developer with 5.0 years of experience building
               polished native apps, scalable mobile architectures, and
               reliable releases for users worldwide. Specialized in Swift,
               SwiftUI, Objective-C, and the Apple platform, with a focus on
